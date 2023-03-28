@@ -13,4 +13,4 @@ hello atgm! hello git!
 hello atgm! hello git!
 hello atgm! hello git!
 hello atgm! hello git!
-hello atgm! hello git!
+hello atgm! hello git! hot-fix text
